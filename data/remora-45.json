@@ -1,0 +1,9 @@
+{
+  "contest": 100,
+  "handle": "remora",
+  "address": "0x90e749ddf74d4c92597fb4C1F717847F7596b553",
+  "risk": "3",
+  "title": "Anyone can call `wtihdraw()` to steal funds",
+  "issueId": 45,
+  "issueUrl": "https://github.com/code-423n4/2022-03-prepo-findings/issues/45"
+}
