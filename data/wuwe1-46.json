@@ -1,0 +1,9 @@
+{
+  "contest": 100,
+  "handle": "wuwe1",
+  "address": "0xA8022F2b43e4823B8286601329504001f8A78652",
+  "risk": "3",
+  "title": "_baseToken sent directly to Collateral contract can be took by anyone",
+  "issueId": 46,
+  "issueUrl": "https://github.com/code-423n4/2022-03-prepo-findings/issues/46"
+}
