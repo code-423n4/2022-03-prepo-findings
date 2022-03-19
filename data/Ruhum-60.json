@@ -1,0 +1,9 @@
+{
+  "contest": 100,
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "2",
+  "title": "Use SafeERC20 or check ERC20's return values",
+  "issueId": 60,
+  "issueUrl": "https://github.com/code-423n4/2022-03-prepo-findings/issues/60"
+}
