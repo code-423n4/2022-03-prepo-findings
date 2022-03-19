@@ -1,0 +1,9 @@
+{
+  "contest": 100,
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "3",
+  "title": "Withdrawal delay can be circumvented",
+  "issueId": 54,
+  "issueUrl": "https://github.com/code-423n4/2022-03-prepo-findings/issues/54"
+}
