@@ -1,0 +1,9 @@
+{
+  "contest": 100,
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "2",
+  "title": "PrePOMarket deposits don't work if collateral has fees on transfer",
+  "issueId": 61,
+  "issueUrl": "https://github.com/code-423n4/2022-03-prepo-findings/issues/61"
+}
