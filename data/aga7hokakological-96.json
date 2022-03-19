@@ -1,0 +1,9 @@
+{
+  "contest": 100,
+  "handle": "aga7hokakological",
+  "address": "0x58FdCeBBc23cA4244e8E7c83739905165671f703",
+  "risk": "2",
+  "title": "Wrong withdrawal amount calculation in Collatoral.sol#withdraw()",
+  "issueId": 96,
+  "issueUrl": "https://github.com/code-423n4/2022-03-prepo-findings/issues/96"
+}
